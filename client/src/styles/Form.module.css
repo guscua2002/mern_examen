@@ -1,0 +1,33 @@
+.formView{
+   
+    margin: 6%;
+    background-color: rgb(239, 238, 235);
+    border: 40px solid rgb(227, 224, 224);
+    padding: 10px;
+   text-align: center;
+}
+
+.title{
+
+    font-family: cursive;
+    font-size: 50px;
+}
+
+.header{
+
+    background-color: brown;
+    text-align: center;
+}
+
+
+.botones{
+
+    margin: 30px;
+    height: 200px;
+}
+
+.botones div{
+
+    margin: 10px;
+}
+
