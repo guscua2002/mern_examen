@@ -6,6 +6,8 @@
 .pnp.js
 node_modules
 **/node_modules
+echo node_modules/ > .gitignore
+**/node_modules
 
 # testing
 /coverage
